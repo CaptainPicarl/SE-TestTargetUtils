@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTargetUtils", "TestTargetUtils.csproj", "{3A5BE613-729E-4B21-ABB1-C640E0DF2A19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A5BE613-729E-4B21-ABB1-C640E0DF2A19}.Debug|x64.ActiveCfg = Debug|x64
+		{3A5BE613-729E-4B21-ABB1-C640E0DF2A19}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E844E1DB-18DF-4DB1-A7E0-686E9A99B917}
+	EndGlobalSection
+EndGlobal
